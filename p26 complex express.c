@@ -1,0 +1,5 @@
+#include<stdio.h>
+int main() {
+    printf("%d",20/5+3*4-2);
+    return 0;
+}
